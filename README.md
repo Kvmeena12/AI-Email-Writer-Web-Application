@@ -7,7 +7,7 @@
 
 ## 🌟 Live Demo
 
-> **[Live App](https://emailwriters.streamlit.app/)**  
+> **[Live App](https://writeemail.streamlit.app/)**  
 
 ---
 
